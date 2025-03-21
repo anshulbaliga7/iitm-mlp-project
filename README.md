@@ -12,9 +12,16 @@ The goal of this competition is to predict a system’s probability of getting i
 
 Submissions are evaluated on `accuracy_score()` between the predicted classes and the true target. This section describes how submissions will be scored and how participants should format their submissions.
 
-## Images
+## Visualization
 
+### My System Arch + Approach
 ![My System Arch + Approach](images/my-model-approach.png)
+
+### Data Preprocessing
 ![Data Preprocessing](images/data-preprocessing.png)
+
+### Feature Engineering
 ![Feature Engineering](images/feature-engineering.png)
+
+### Leaderboard
 ![Leaderboard](images/leaderboard-ranking.png)
