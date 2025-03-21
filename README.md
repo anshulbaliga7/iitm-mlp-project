@@ -24,4 +24,4 @@ Submissions are evaluated on `accuracy_score()` between the predicted classes an
 ![Feature Engineering](images/feature-engineering.png)
 
 ### Leaderboard
-![Leaderboard](images/leaderboard-ranking.png)
+![Leaderboard](leaderboard-ranking.png)
